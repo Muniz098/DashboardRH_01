@@ -19,7 +19,7 @@ A solução auxilia gestores e equipes de RH na tomada de decisões baseadas em 
 
 ---
 
-## 📈 Análises Disponíveis
+## Análises:
 
 ### Quadro de Colaboradores
 
@@ -65,7 +65,7 @@ Análise da composição dos colaboradores por área e cargo através de visual 
 
 ---
 
-## 🔍 Principais Insights
+## Principais Insights:
 
 ### Gestão de Pessoas
 
@@ -90,7 +90,7 @@ Análise da composição dos colaboradores por área e cargo através de visual 
 
 ---
 
-## 💡 Habilidades Demonstradas
+## Habilidades:
 
 - Análise de Recursos Humanos (People Analytics)
 - Construção de KPIs de RH
